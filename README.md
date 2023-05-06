@@ -6,8 +6,9 @@ The Chicago Bank Account System is a class project developed as a demonstration 
 
 One of the main objectives of this project is to enhance my knowledge of Python programming and gain hands-on experience working in a like real-world application. The project serves as a platform for me to apply the concepts I've taught myself in Python, explore and implement new libraries and tools, and teach myself the iterations that stem within software development.
 
-<b>Code of Conduct</b>    
-<i>This project was created under a guideline of the following aspects:   </i>
+<b>Code of Conduct</b>   
+
+<i>This project was created under a guideline of the following aspects:   </i>    
 Quality: Code follows proper ethics to meet quality standards, reinforcing the imortance of writing clean code that is organized and effecient.    
 
 Constructive Feedback: Be open to feedback from users and use it to improve project.       
